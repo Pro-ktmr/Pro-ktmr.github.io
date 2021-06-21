@@ -4,12 +4,12 @@ language: "ja"
 title: "きたむー (Pro_ktmr) のプロフィール"
 ---
 
-こんにちは．きたむー (Pro_ktmr) です．たぶん競技プログラマです．
+こんにちは．競技プログラミングとかやってます．
 
 備忘録がてらいろいろ記録していきます．
 
 ## 基本情報
-- Twitter: [@Pro_ktmr](https://twitter.com/home)
+- Twitter: [@Pro_ktmr](https://twitter.com/Pro_ktmr)
 - AtCoder: [Pro_ktmr](https://atcoder.jp/users/Pro_ktmr) Highest 黄色
 - Codeforces: [Pro_ktmr](https://codeforces.com/profile/Pro_ktmr) max 濃橙
 
@@ -22,8 +22,6 @@ title: "きたむー (Pro_ktmr) のプロフィール"
 - パソコン甲子園 モバイル部門 ベストアイデア賞
 - SSH 生徒研究発表会 ポスター発表賞
 
-数年内に増やす
-
 ## 書き物情報
 - [【図解】二分探索はもう間違えない！スリーステップ実装法＆記憶に残るアニメーション](https://qiita.com/Pro_ktmr/items/8946723fe08ba29a977c)
 - [【図解】線形時間の文字列アルゴリズム「Z algorithm」をイラストとアニメーションでかみ砕く](https://qiita.com/Pro_ktmr/items/16904c9570aa0953bf05)
@@ -35,6 +33,10 @@ title: "きたむー (Pro_ktmr) のプロフィール"
 
 ## 出没情報
 最近の年から順に．同じ年度内では古い方から順に．
+
+### 2021 4 月 -
+- 5 月 23 日 JOIG 2021 表彰式
+- 6 月 14 日 - 19 日 EGOI 2021 (団長)
 
 ### 2020 4 月 -
 - 8 月 25 日 - 28 日 JOI 夏季セミナー 2020 『簡潔データ構造』班 (チューター)
