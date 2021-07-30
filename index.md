@@ -10,10 +10,9 @@ title: "きたむー (Pro_ktmr) のプロフィール"
 - Twitter: [@Pro_ktmr](https://twitter.com/Pro_ktmr)
 - AtCoder: [Pro_ktmr](https://atcoder.jp/users/Pro_ktmr) Highest 黄色
 - Codeforces: [Pro_ktmr](https://codeforces.com/profile/Pro_ktmr) max 濃橙
-
-
-- 英検 2 級
+- TOEIC L&R: 455 + 415 = 870
 - P 検 2 級 (ビジネスで ICT を活用するための資格)
+- 色彩検定 3 級
 
 ## 実績
 - Asia-Pacific Informatics Olympiad 日本代表 銀メダル
