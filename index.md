@@ -32,6 +32,7 @@ title: "きたむー (Pro_ktmr) のプロフィール"
 - [【解説】JOI 2019/2020 一次予選 最速非公式解説【競技プログラミング】](https://www2.slideshare.net/Proktmr/joi-20192020)
 - [図と実装で理解する『木構造入門』](https://www2.slideshare.net/Proktmr/ss-138534092) ※書き直したい
 - [Informatics Creator's Magazine No.29](https://www.ioi-jp.org/documents/newsletter/NewsletterNo29.pdf) (P.11 チューターとして寄稿)
+- [Informatics Creator's Magazine No.31](https://www.ioi-jp.org/documents/newsletter/NewsletterNo31.pdf) (P.9 チューターとして寄稿)
 
 ## 出没情報
 
@@ -39,6 +40,7 @@ title: "きたむー (Pro_ktmr) のプロフィール"
 - 5 月 23 日 JOIG 2021 表彰式
 - 6 月 14 日 - 19 日 EGOI 2021 (団長)
 - 7 月 11 日 IOI 2021 / EGOI 2021 表彰式
+- 8 月 28 日 - 29 日 情報処理学会 情報教育シンポジウム SSS2021
 
 ### 2020 年 4 月 -
 - 8 月 25 日 - 28 日 JOI 夏季セミナー 2020 『簡潔データ構造』班 (チューター)
