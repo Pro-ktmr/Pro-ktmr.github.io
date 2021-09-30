@@ -1,7 +1,7 @@
 ---
 layout: "default"
 language: "ja"
-title: "きたむー (Pro_ktmr) のプロフィール"
+title: "プロフィール"
 ---
 
 備忘録がてらいろいろ記録していきます．
