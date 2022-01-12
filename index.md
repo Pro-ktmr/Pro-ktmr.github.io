@@ -8,7 +8,7 @@ title: "プロフィール"
 - Twitter: [@Pro_ktmr](https://twitter.com/Pro_ktmr)
 - AtCoder: [Pro_ktmr](https://atcoder.jp/users/Pro_ktmr) Highest 黄色
 - Codeforces: [Pro_ktmr](https://codeforces.com/profile/Pro_ktmr) max 濃橙
-- TOEIC L&R: 455 + 415 = 870
+- TOEIC L&R: 475 + 440 = 915
 - P 検 2 級
 - 色彩検定 2 級
 
