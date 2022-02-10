@@ -28,7 +28,6 @@ title: "プロフィール"
 - [【図解】木のパスに関するクエリは HL 分解！ その仕組みと実装を図で理解する｜Heavy-Light Decomposition](https://qiita.com/Pro_ktmr/items/4e1e051ea0561772afa3)
 - [【アンプラグド】おままごとで学ぶデータ構造｜小学生から大人まで！](https://qiita.com/Pro_ktmr/items/c128ddc6c51f7da3b9cb)
 - [【解説】JOI 2019/2020 一次予選 最速非公式解説【競技プログラミング】](https://www2.slideshare.net/Proktmr/joi-20192020)
-- [図と実装で理解する『木構造入門』](https://www2.slideshare.net/Proktmr/ss-138534092) ※書き直したい
 - [Informatics Creator's Magazine No.29](https://www.ioi-jp.org/documents/newsletter/NewsletterNo29.pdf) (P.11 チューターとして寄稿)
 - [Informatics Creator's Magazine No.31](https://www.ioi-jp.org/documents/newsletter/NewsletterNo31.pdf) (P.9 チューターとして寄稿)
 
@@ -39,6 +38,7 @@ title: "プロフィール"
 - 6 月 14 日 - 19 日 EGOI 2021 (団長)
 - 7 月 11 日 IOI 2021 / EGOI 2021 表彰式
 - 8 月 28 日 - 29 日 情報処理学会 情報教育シンポジウム SSS2021
+- 2 月 5 日 - 6 日 情報処理学会 第163回コンピュータと教育研究発表会「[CSアンプラグドを活用したソートアルゴリズムオンライン学習教材](http://id.nii.ac.jp/1001/00216102/)」
 
 ### 2020 年 4 月 -
 - 8 月 25 日 - 28 日 JOI 夏季セミナー 2020 『簡潔データ構造』班 (チューター)
