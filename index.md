@@ -38,10 +38,19 @@ title: "プロフィール"
 - P 検 2 級
 - 色彩検定 2 級
 
-## 記事
+## 執筆
 
+- [JOI 公式テキスト　Python で問題解決　情報オリンピックに出てみよう](https://pro-ktmr.github.io/joi-text/)
 - [Informatics Creator's Magazine No.29](https://www.ioi-jp.org/documents/newsletter/NewsletterNo29.pdf) (P.11 チューターとして寄稿)
 - [Informatics Creator's Magazine No.31](https://www.ioi-jp.org/documents/newsletter/NewsletterNo31.pdf) (P.9 団長として寄稿)
+
+## 開発したもの
+
+- [PyTry](https://pro-ktmr.github.io/pytry/)
+- [AOJ-PCK](https://pro-ktmr.github.io/aoj-pck/)
+- [OJUZ-OI](https://pro-ktmr.github.io/ojuz-oi/)
+- ソートアルゴリズムオンライン学習教材 [CE163 バージョン](https://pro-ktmr.github.io/learn-sorting-algorithms-ce163/)  [WCCE2022 バージョン](https://pro-ktmr.github.io/learn-sorting-algorithms-wcce2022/)
+- その他は [GitHub](https://github.com/Pro-ktmr?tab=repositories) を参照
 
 ## 過去に参加したイベント等
 
