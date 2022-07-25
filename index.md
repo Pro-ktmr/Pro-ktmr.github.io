@@ -30,6 +30,10 @@ title: "プロフィール"
 
 - <u>北村祐稀</u>, 岸本有生, 兼宗進, 西田知博, 白井詩沙香: CSアンプラグドを活用したソートアルゴリズムオンライン学習教材の開発, 情報処理学会 研究報告コンピュータと教育 (CE), Vol. 2022-CE-163, pp. 1-7 (2022).
 
+### 国際会議 (査読あり)
+
+- <u>Yuki Kitamura</u>, Kazuya Hirose, Susumu Kanemune, Tomohiro Nishida, Shizuka Shirai: How Elementary School Students Experienced Algorithms: Using Sorting Algorithms Online Learning Tool, WCCE2022 (2022).
+
 ## 資格等
 
 - AtCoder: [Pro_ktmr](https://atcoder.jp/users/Pro_ktmr) Highest 黄色
@@ -103,4 +107,4 @@ title: "プロフィール"
 
 ---
 
-このサイトではアクセス状況の分析のために Google Analytics を用いており，訪問者の特定の情報が Google に送信されます．データの収集には Cookie が使用されます．このサイトを利用することで，以上について承諾したとみなします．
+このサイトではアクセス状況の分析のために Google Analytics を用いており，訪問者の特定の情報が Google に送信されます．Google 以外にもいくつかのサーバにデータが送信されることがあります．データの収集には Cookie が使用されます．このサイト (pro-ktmr.github.io 以下全体) を利用することで，以上について承諾したとみなします．
