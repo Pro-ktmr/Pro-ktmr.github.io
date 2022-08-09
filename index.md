@@ -19,11 +19,6 @@ title: "プロフィール"
 - 令和3年度 大阪大学全学教育優秀賞
 - 令和3年度 学部学生による自主研究奨励事業 全学選抜自主研究成果発表会 優秀賞
 
-## 活動
-
-- 情報オリンピック日本委員会 技術部会 (2021 年 6 月 - 現在)
-- 第 1 回ヨーロッパ女子情報オリンピック 日本選手団団長
-
 ## 研究
 
 ### 国内研究会 (査読なし)
@@ -45,8 +40,6 @@ title: "プロフィール"
 ## 執筆
 
 - [JOI 公式テキスト　Python で問題解決　情報オリンピックに出てみよう](https://pro-ktmr.github.io/joi-text/)
-- [Informatics Creator's Magazine No.29](https://www.ioi-jp.org/documents/newsletter/NewsletterNo29.pdf) (P.11 チューターとして寄稿)
-- [Informatics Creator's Magazine No.31](https://www.ioi-jp.org/documents/newsletter/NewsletterNo31.pdf) (P.9 団長として寄稿)
 
 ## 開発したもの
 
