@@ -35,13 +35,14 @@ title: "プロフィール"
     box-shadow: 0 0 4px black;
   }
   .sachiTitle {
+    display: block;
     font-size: 2rem;
     font-weight: 700;
     margin-bottom: 1rem;
   }
 </style>
 
-<a href="./portfolio/" class="sachi"><div class="sachiTitle">サーチできるポートフォリオ「幸 (さち)」</div><div>公開中！</div></a>
+<a href="./portfolio/" class="sachi"><span class="sachiTitle">サーチできるポートフォリオ「幸 (さち)」</span>公開中！</a>
 
 ## 研究
 
