@@ -41,10 +41,7 @@ title: "プロフィール"
   }
 </style>
 
-<a href="./portfolio/" class="sachi">
-  <div class="sachiTitle">サーチできるポートフォリオ「幸 (さち)」</div>
-  <div>公開中！</div>
-</a>
+<a href="./portfolio/" class="sachi"><div class="sachiTitle">サーチできるポートフォリオ「幸 (さち)」</div><div>公開中！</div></a>
 
 ## 研究
 
