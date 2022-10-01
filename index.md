@@ -19,6 +19,33 @@ title: "プロフィール"
 - 令和3年度 大阪大学全学教育優秀賞
 - 令和3年度 学部学生による自主研究奨励事業 全学選抜自主研究成果発表会 優秀賞
 
+<style>
+  .sachi {
+    display: block;
+    margin: 2rem 0;
+    padding: 2rem;
+    background: #8858ff;
+    color: white;
+    text-align: center;
+    border-radius: 0.4rem;
+    font-size: 1.5rem;
+  }
+  .sachi:hover {
+    text-decoration: none;
+    box-shadow: 0 0 4px black;
+  }
+  .sachiTitle {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+</style>
+
+<a href="./portfolio/" class="sachi">
+  <div class="sachiTitle">サーチできるポートフォリオ「幸 (さち)」</div>
+  <div>公開中！</div>
+</a>
+
 ## 研究
 
 ### 国内研究会 (査読なし)
@@ -48,56 +75,6 @@ title: "プロフィール"
 - [OJUZ-OI](https://pro-ktmr.github.io/ojuz-oi/)
 - ソートアルゴリズムオンライン学習教材 [CE163 バージョン](https://pro-ktmr.github.io/learn-sorting-algorithms-ce163/)  [WCCE2022 バージョン](https://pro-ktmr.github.io/learn-sorting-algorithms-wcce2022/)
 - その他は [GitHub](https://github.com/Pro-ktmr?tab=repositories) を参照
-
-## 過去に参加したイベント等
-
-### 2022 年 4 月 -
-
-- 5 月 3 日 令和3年度 学部学生による自主研究奨励事業 全学選抜自主研究成果発表会
-
-### 2021 年 4 月 -
-
-- 5 月 23 日 JOIG 2021 表彰式
-- 6 月 14 日 - 19 日 EGOI 2021 (団長)
-- 7 月 11 日 IOI 2021 / EGOI 2021 表彰式
-- 12 月 17 日 令和3年度 大阪大学全学教育優秀賞 表彰式
-- 12 月 25 日 マスフェスタ (学習支援員)
-- 2 月 12 日 - 13 日 JOI 2020/2021 本選 (専門的技術)
-- 3 月 15 日 - 16 日 ICPC 2021 Asia Yokohama Regional チーム Positive_yellows (15 位)
-- 3 月 20 日 - 23 日 JOI/JOIG 2021/2022 春合宿 (専門的技術)
-
-### 2020 年 4 月 -
-
-- 8 月 25 日 - 28 日 JOI 夏季セミナー 2020 『簡潔データ構造』班 (チューター)
-- 2 月 13 日 - 14 日 JOI 2020/2021 本選 (チューター)
-- 2 月 21 日，28 日 JOI 入門講座 (女性限定) (講師)
-- 3 月 20 日 - 23 日 JOI 2020/2021 春合宿 (チューター)
-- 大阪大学 SEEDS アシスタント
-
-### 2019 年 4 月 -
-
-- 8 月 1 日 - 3 日 大手前高校 SSH プログラミング学習会 2019 (1 日，2 日：講師，3 日：コンテスト運営)
-- 8 月 7 日 - 8 日 令和元年度 SSH 生徒研究発表会 (ポスター発表賞)
-- 8 月 19 日 - 23 日 Supercomputing Contest 2019 チーム dispro (7 位)
-- 8 月 25 日 - 29 日 JOI 夏季セミナー 2019 『CUDA C プロフェッショナル プログラミング』班 [スライド](https://www2.slideshare.net/Proktmr/ss-167298066/)
-- 3 月 20 日 - 23 日 JOI 2019/2020 春合宿 (チューター)
-
-### 2018 年 4 月 -
-
-- 京都大学 ELCAS ロボットシステムの組込みプログラミング 班
-- 8 月 4 日 大手前高校 SSH プログラミング学習会 2018
-- 8 月 15 日 - 19 日 JOI 夏季セミナー 2018 『型システム入門 －プログラミング言語と型の理論－』班 [スライド](https://www2.slideshare.net/Proktmr/joiss2018lambdaocaml)
-- 8 月 20 日 - 24 日 Supercomputing Contest 2018 チーム dispro (2 位)
-- 8 月 25 日 マスフェスタ (発表者)
-- 10 月 21 日 科学の甲子園 大阪府大会 (4 位)
-- 11 月 17 日 - 18 日 パソコン甲子園 2018 モバイル部門 チーム Vega (ベストアイデア賞) [Web ページ](./pck2018m/)
-- 2 月 9 日 - 10 日 JOI 2018/2019 本選
-- 2 月 17 日 全国統一プログラミング王決定戦本戦
-- 3 月 19 日 - 25 日 JOI 2018/2019 春合宿
-
-### 2017 年 4 月 -
-
-- 京都大学 ELCAS 物質エネルギー化学 班
 
 ---
 
