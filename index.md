@@ -48,7 +48,12 @@ title: "プロフィール"
 
 ### 国内研究会 (査読なし)
 
+- <u>北村祐稀</u>, 長瀧寛之, 井手広康, 兼宗進, 白井詩沙香: シミュレータ教材ProtoSimを活用したTCP/IPの仕組みと重要性を体験的に学ぶ授業の提案, 第16回全国高等学校情報教育研究会全国大会（東京大会）(2023).
 - <u>北村祐稀</u>, 岸本有生, 兼宗進, 西田知博, 白井詩沙香: CSアンプラグドを活用したソートアルゴリズムオンライン学習教材の開発, 情報処理学会 研究報告コンピュータと教育 (CE), Vol. 2022-CE-163, pp. 1-7 (2022).
+
+### 国内研究会 (査読あり)
+
+- <u>北村祐稀</u>, 長瀧寛之, 井手広康, 兼宗進, 白井詩沙香: 初学者を対象としたTCP/IPの仕組みと重要性を体験的に学ぶシミュレータ教材の開発, 情報処理学会 情報教育シンポジウム論文集, Vol. 2023, pp. 249-253 (2023).
 
 ### 国際会議 (査読あり)
 
@@ -71,7 +76,6 @@ title: "プロフィール"
 - [PyTry](https://pro-ktmr.github.io/pytry/)
 - [AOJ-PCK](https://pro-ktmr.github.io/aoj-pck/)
 - [OJUZ-OI](https://pro-ktmr.github.io/ojuz-oi/)
-- ソートアルゴリズムオンライン学習教材 [CE163 バージョン](https://pro-ktmr.github.io/learn-sorting-algorithms-ce163/)  [WCCE2022 バージョン](https://pro-ktmr.github.io/learn-sorting-algorithms-wcce2022/)
 - その他は [GitHub](https://github.com/Pro-ktmr?tab=repositories) を参照
 
 ---
