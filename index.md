@@ -54,7 +54,7 @@ title: "プロフィール"
 - <u>北村祐稀</u>, 長瀧寛之, 井手広康, 兼宗進, 岸本有生, 白井詩沙香: すぐ使える！ 通信プロトコルシミュレータProtoSim（プロトシム）〜実践結果2023＆展望2024〜, 第17回全国高等学校情報教育研究会全国大会（愛知大会）(2024). [researchmap（ポスターデータあり）](https://researchmap.jp/yuki-kitamura/presentations/47323559)
 - <u>北村祐稀</u>, 白井詩沙香, 西田知博, 兼宗進, 長瀧寛之, 小野淳, 竹村治雄: インタラクティブなソートアルゴリズム演習ツールを取り入れた一般情報教育における授業実践, 情報処理学会 研究報告コンピュータと教育 (CE), Vol. 2023-CE-172, No. 16, pp. 1-8 (2023). [researchmap](https://researchmap.jp/yuki-kitamura/presentations/44246181)
 - <u>北村祐稀</u>, 長瀧寛之, 井手広康, 兼宗進, 白井詩沙香: シミュレータ教材ProtoSimを活用したTCP/IPの仕組みと重要性を体験的に学ぶ授業の提案, 第16回全国高等学校情報教育研究会全国大会（東京大会）(2023). [researchmap（ポスターデータあり）](https://researchmap.jp/yuki-kitamura/presentations/43753090)
-- <u>北村祐稀</u>, 岸本有生, 兼宗進, 西田知博, 白井詩沙香: CSアンプラグドを活用したソートアルゴリズムオンライン学習教材の開発, 情報処理学会 研究報告コンピュータと教育 (CE), Vol. 2022-CE-163, No. 4, pp. 1-7 (2022). [researchmap（ポスターデータあり）](https://researchmap.jp/yuki-kitamura/presentations/43753098)
+- <u>北村祐稀</u>, 岸本有生, 兼宗進, 西田知博, 白井詩沙香: CSアンプラグドを活用したソートアルゴリズムオンライン学習教材の開発, 情報処理学会 研究報告コンピュータと教育 (CE), Vol. 2022-CE-163, No. 4, pp. 1-7 (2022). [researchmap](https://researchmap.jp/yuki-kitamura/presentations/43753098)
 
 ### 国内研究会 (査読あり)
 
