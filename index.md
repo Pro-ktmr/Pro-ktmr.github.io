@@ -7,17 +7,15 @@ title: "プロフィール"
 ## 基本情報
 
 - 北村 祐稀 (KITAMURA Yuki)
-- 大阪大学 大学院情報科学研究科 情報システム工学専攻 メディア統合環境講座 (浦西研究室) 博士前期課程 2 年
+- 大阪大学 大学院情報科学研究科 情報システム工学専攻 メディア統合環境講座（浦西研究室） 博士後期課程 1 年
 - Twitter: [@Pro_ktmr](https://twitter.com/Pro_ktmr)
 
-## 実績
+## 主な実績
 
-- Supercomputing Contest 2018 第2位
-- パソコン甲子園2018 モバイル部門 ベストアイデア賞
-- 令和元年度スーパーサイエンスハイスクール生徒研究発表会 ポスター発表賞
 - Asia-Pacific Informatics Olympiad 2019 日本代表 銀メダル
+- パソコン甲子園2018 モバイル部門 ベストアイデア賞
+- 情報処理学会 情報教育シンポジウム SSS2025 最優秀論文賞
 - 令和3年度 大阪大学全学教育優秀賞
-- 令和3年度 学部学生による自主研究奨励事業 全学選抜自主研究成果発表会 優秀賞
 
 <style>
   .sachi {
@@ -64,6 +62,10 @@ title: "プロフィール"
 ### 国際会議 (査読あり)
 
 - <u>Yuki Kitamura</u>, Kazuya Hirose, Susumu Kanemune, Tomohiro Nishida, Shizuka Shirai: How Elementary School Students Experienced Algorithms: Using Sorting Algorithms Online Learning Tool, WCCE2022 (2022). [researchmap](https://researchmap.jp/yuki-kitamura/misc/43753196)
+
+### 国内論文（査読あり）
+
+- <u>北村祐稀</u>, 岸本有生, 兼宗進, 西田知博, 白井詩沙香: カードの並べ替えを通じてソートアルゴリズムを体験的に学ぶインタラクティブ教材CardAlgoの開発と評価, 情報処理学会論文誌教育とコンピュータ（TCE）, Vol. 11, No. 1, pp. 1-14 (2025). [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/49239994)
 
 ## 資格等
 
