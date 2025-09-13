@@ -48,6 +48,8 @@ title: "プロフィール"
 
 ### 国内研究会 (査読なし)
 
+- <u>北村祐稀</u>, 長瀧寛之, 岸本有生, 兼宗進, 白井詩沙香: ProtoSimの評価・改善を通じたインタラクティブ学習環境で自己学習を促す要素の分析, 情報処理学会 情報教育シンポジウム論文集, Vol. 2025, pp. 126-132 (2025). [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/50831111)
+- <u>北村祐稀</u>, 長瀧寛之, 岸本有生, 兼宗進, 井手広康, 白井詩沙香: 触ってわかる、ネットワークの仕組み。――ProtoSim（バージョン 2）を活用した授業実践, 第18回全国高等学校情報教育研究会全国大会（千葉大会）(2025). [researchmap（ポスターデータあり）](https://researchmap.jp/yuki-kitamura/presentations/50796633)
 - <u>北村祐稀</u>, Henderson Tracy, 白井詩沙香, 長瀧寛之, 辰己丈夫, Bell Tim, 浦西友樹: ニュージーランドと日本の高等学校における情報教育の比較のための予備調査―授業見学と教員インタビューを通じて―, 情報処理学会 研究報告コンピュータと教育 (CE), Vol. 2024-CE-177, No. 17, pp. 1-6 (2024). [researchmap](https://researchmap.jp/yuki-kitamura/presentations/48658431)
 - <u>北村祐稀</u>, 長瀧寛之, 井手広康, 兼宗進, 岸本有生, 白井詩沙香: すぐ使える！ 通信プロトコルシミュレータProtoSim（プロトシム）〜実践結果2023＆展望2024〜, 第17回全国高等学校情報教育研究会全国大会（愛知大会）(2024). [researchmap（ポスターデータあり）](https://researchmap.jp/yuki-kitamura/presentations/47323559)
 - <u>北村祐稀</u>, 白井詩沙香, 西田知博, 兼宗進, 長瀧寛之, 小野淳, 竹村治雄: インタラクティブなソートアルゴリズム演習ツールを取り入れた一般情報教育における授業実践, 情報処理学会 研究報告コンピュータと教育 (CE), Vol. 2023-CE-172, No. 16, pp. 1-8 (2023). [researchmap](https://researchmap.jp/yuki-kitamura/presentations/44246181)
