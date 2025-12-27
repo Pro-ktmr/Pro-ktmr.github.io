@@ -51,7 +51,7 @@ title: "プロフィール"
 
 ### 国際会議 (査読あり)
 
-1. <u>Yuki Kitamura</u>, Hiroyuki Nagataki, Tomonari Kishimoto, Susumu Kanemune, Shizuka Shirai: "Enhancing Computer Network Education for High School Students with an Educational Simulator Visualizing Packet Retransmission and Routing", Proceedings of the 57th ACM Technical Symposium on Computer Science Education (2025). [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/51873176)
+1. <u>Yuki Kitamura</u>, Hiroyuki Nagataki, Tomonari Kishimoto, Susumu Kanemune, Shizuka Shirai: "Enhancing Computer Network Education for High School Students with an Educational Simulator Visualizing Packet Retransmission and Routing", Proceedings of the 57th ACM Technical Symposium on Computer Science Education (2026). [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/51873176)
 1. <u>Yuki Kitamura</u>, Hiroyuki Nagataki, Tomonari Kishimoto, Susumu Kanemune, Shizuka Shirai: "Understanding Computer Networks Within an Hour: Evaluation of a Visual Simulator and Autonomous Supports Under Self-Learning Conditions", 2025 IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE) (2025). [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/51873157)
 1. <u>Yuki Kitamura</u>, Kazuya Hirose, Susumu Kanemune, Tomohiro Nishida, Shizuka Shirai: "How Elementary School Students Experienced Algorithms: Using Sorting Algorithms Online Learning Tool", WCCE2022 (2022). [researchmap](https://researchmap.jp/yuki-kitamura/misc/43753196)
 
