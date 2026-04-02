@@ -47,7 +47,8 @@ title: "プロフィール"
 
 ### 国内論文誌（査読あり）
 
-1. <u>北村祐稀</u>, 岸本有生, 兼宗進, 西田知博, 白井詩沙香: カードの並べ替えを通じてソートアルゴリズムを体験的に学ぶインタラクティブ教材CardAlgoの開発と評価, 情報処理学会論文誌教育とコンピュータ（TCE）, Vol. 11, No. 1, pp. 1-14 (2025). [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/49239994)
+1. <u>北村祐稀</u>, 岸本有生, 兼宗進, 西田知博, 白井詩沙香: カードの並べ替えを通じてソートアルゴリズムを体験的に学ぶインタラクティブ教材CardAlgoの開発と評価, 情報処理学会論文誌教育とコンピュータ（TCE）, Vol. 11, No. 1, pp. 1-14 (2025).
+    - [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/49239994)
 
 ### 国際会議 (査読あり)
 
