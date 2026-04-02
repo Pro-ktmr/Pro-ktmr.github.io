@@ -7,7 +7,7 @@ title: "プロフィール"
 ## 基本情報
 
 - 北村 祐稀 (KITAMURA Yuki)
-- 大阪大学 大学院情報科学研究科 情報システム工学専攻 メディア統合環境講座（浦西研究室） 博士後期課程 1 年
+- 大阪大学 大学院情報科学研究科 情報システム工学専攻 メディア統合環境講座（浦西研究室） 博士後期課程 2 年
 
 ## 主な実績
 
@@ -51,25 +51,42 @@ title: "プロフィール"
 
 ### 国際会議 (査読あり)
 
-1. <u>Yuki Kitamura</u>, Tomonari Kishimoto, Hiroyuki Nagataki, Susumu Kanemune, Shizuka Shirai: "Enhancing Computer Network Education for High School Students with an Educational Simulator Visualizing Packet Retransmission and Routing", Proceedings of the 57th ACM Technical Symposium on Computer Science Education (2026). [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/51873176)
-1. <u>Yuki Kitamura</u>, Hiroyuki Nagataki, Tomonari Kishimoto, Susumu Kanemune, Shizuka Shirai: "Understanding Computer Networks Within an Hour: Evaluation of a Visual Simulator and Autonomous Supports Under Self-Learning Conditions", 2025 IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE) (2025). [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/51873157)
-1. <u>Yuki Kitamura</u>, Kazuya Hirose, Susumu Kanemune, Tomohiro Nishida, Shizuka Shirai: "How Elementary School Students Experienced Algorithms: Using Sorting Algorithms Online Learning Tool", WCCE2022 (2022). [researchmap](https://researchmap.jp/yuki-kitamura/misc/43753196)
+1. <u>Yuki Kitamura</u>, Tomonari Kishimoto, Hiroyuki Nagataki, Susumu Kanemune, Shizuka Shirai: "Enhancing Computer Network Education for High School Students with an Educational Simulator Visualizing Packet Retransmission and Routing", Proceedings of the 57th ACM Technical Symposium on Computer Science Education V.1, pp. 575-581 (2026).
+    - [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/51873176)
+1. <u>Yuki Kitamura</u>, Hiroyuki Nagataki, Tomonari Kishimoto, Susumu Kanemune, Shizuka Shirai: "Understanding Computer Networks Within an Hour: Evaluation of a Visual Simulator and Autonomous Supports Under Self-Learning Conditions", 2025 IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE) (2025).
+    - [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/51873157)
+1. <u>Yuki Kitamura</u>, Kazuya Hirose, Susumu Kanemune, Tomohiro Nishida, Shizuka Shirai: "How Elementary School Students Experienced Algorithms: Using Sorting Algorithms Online Learning Tool", WCCE2022 (2022).
+    - [researchmap](https://researchmap.jp/yuki-kitamura/misc/43753196)
 
 ### 国内学会 (査読あり)
 
-1. <u>北村祐稀</u>, 長瀧寛之, 井手広康, 兼宗進, 白井詩沙香: TCP/IPの仕組みを体験的に学ぶシミュレータ教材を活用した授業の提案, 情報処理学会 情報教育シンポジウム論文集, Vol. 2024, pp. 124-131 (2024). [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/47368001)
-1. <u>北村祐稀</u>, 長瀧寛之, 井手広康, 兼宗進, 白井詩沙香: 初学者を対象としたTCP/IPの仕組みと重要性を体験的に学ぶシミュレータ教材の開発, 情報処理学会 情報教育シンポジウム論文集, Vol. 2023, pp. 249-253 (2023). [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/43752957)
+1. <u>北村祐稀</u>, 長瀧寛之, 井手広康, 兼宗進, 白井詩沙香: TCP/IPの仕組みを体験的に学ぶシミュレータ教材を活用した授業の提案, 情報処理学会 情報教育シンポジウム論文集, Vol. 2024, pp. 124-131 (2024).
+    - [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/47368001)
+1. <u>北村祐稀</u>, 長瀧寛之, 井手広康, 兼宗進, 白井詩沙香: 初学者を対象としたTCP/IPの仕組みと重要性を体験的に学ぶシミュレータ教材の開発, 情報処理学会 情報教育シンポジウム論文集, Vol. 2023, pp. 249-253 (2023).
+    - [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/43752957)
 
 ### 国内学会 (査読なし)
 
-1. <u>北村祐稀</u>: ユーザの試行錯誤を促すPython開発環境のプログラム実行ログ分析, 日本教育工学会2025年秋季全国大会 (2025). [researchmap（ポスターデータあり）](https://researchmap.jp/yuki-kitamura/presentations/51154682)
-1. <u>北村祐稀</u>, 長瀧寛之, 岸本有生, 兼宗進, 白井詩沙香: ProtoSimの評価・改善を通じたインタラクティブ学習環境で自己学習を促す要素の分析, 情報処理学会 情報教育シンポジウム2025論文集, Vol. 2025, pp. 126-132 (2025). [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/50831111)
-1. <u>北村祐稀</u>, 長瀧寛之, 岸本有生, 兼宗進, 井手広康, 白井詩沙香: 触ってわかる、ネットワークの仕組み。――ProtoSim（バージョン 2）を活用した授業実践, 第18回全国高等学校情報教育研究会全国大会（千葉大会）(2025). [researchmap（ポスターデータあり）](https://researchmap.jp/yuki-kitamura/presentations/50796633)
-1. <u>北村祐稀</u>, Henderson Tracy, 白井詩沙香, 長瀧寛之, 辰己丈夫, Bell Tim, 浦西友樹: ニュージーランドと日本の高等学校における情報教育の比較のための予備調査―授業見学と教員インタビューを通じて―, 情報処理学会 研究報告コンピュータと教育 (CE), Vol. 2024-CE-177, No. 17, pp. 1-6 (2024). [researchmap](https://researchmap.jp/yuki-kitamura/presentations/48658431)
-1. <u>北村祐稀</u>, 長瀧寛之, 井手広康, 兼宗進, 岸本有生, 白井詩沙香: すぐ使える！ 通信プロトコルシミュレータProtoSim（プロトシム）〜実践結果2023＆展望2024〜, 第17回全国高等学校情報教育研究会全国大会（愛知大会）(2024). [researchmap（ポスターデータあり）](https://researchmap.jp/yuki-kitamura/presentations/47323559)
-1. <u>北村祐稀</u>, 白井詩沙香, 西田知博, 兼宗進, 長瀧寛之, 小野淳, 竹村治雄: インタラクティブなソートアルゴリズム演習ツールを取り入れた一般情報教育における授業実践, 情報処理学会 研究報告コンピュータと教育 (CE), Vol. 2023-CE-172, No. 16, pp. 1-8 (2023). [researchmap](https://researchmap.jp/yuki-kitamura/presentations/44246181)
-1. <u>北村祐稀</u>, 長瀧寛之, 井手広康, 兼宗進, 白井詩沙香: シミュレータ教材ProtoSimを活用したTCP/IPの仕組みと重要性を体験的に学ぶ授業の提案, 第16回全国高等学校情報教育研究会全国大会（東京大会）(2023). [researchmap（ポスターデータあり）](https://researchmap.jp/yuki-kitamura/presentations/43753090)
-1. <u>北村祐稀</u>, 岸本有生, 兼宗進, 西田知博, 白井詩沙香: CSアンプラグドを活用したソートアルゴリズムオンライン学習教材の開発, 情報処理学会 研究報告コンピュータと教育 (CE), Vol. 2022-CE-163, No. 4, pp. 1-7 (2022). [researchmap](https://researchmap.jp/yuki-kitamura/presentations/43753098)
+1. <u>北村祐稀</u>: 高等学校「情報I」プログラミングPBLにおけるジャストインタイム学習環境の設計, 日本教育工学会2026年春季全国大会 (2026).
+    - [researchmap](https://researchmap.jp/yuki-kitamura/presentations/53157801)
+1. <u>北村祐稀</u>: 大学入学共通テスト「情報I」対策 ―自律学習を促す教材の検討―, 情報処理学会 研究報告コンピュータと教育 (CE), Vol. 2026-CE-183, No. 23, pp. 1-4 (2026).
+    - [researchmap](https://researchmap.jp/yuki-kitamura/presentations/52259725)
+1. <u>北村祐稀</u>: ユーザの試行錯誤を促すPython開発環境のプログラム実行ログ分析, 日本教育工学会2025年秋季全国大会 (2025).
+    - [researchmap（ポスターデータあり）](https://researchmap.jp/yuki-kitamura/presentations/51154682)
+1. <u>北村祐稀</u>, 長瀧寛之, 岸本有生, 兼宗進, 白井詩沙香: ProtoSimの評価・改善を通じたインタラクティブ学習環境で自己学習を促す要素の分析, 情報処理学会 情報教育シンポジウム2025論文集, Vol. 2025, pp. 126-132 (2025).
+    - [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/50831111)
+1. <u>北村祐稀</u>, 長瀧寛之, 岸本有生, 兼宗進, 井手広康, 白井詩沙香: 触ってわかる、ネットワークの仕組み。――ProtoSim（バージョン 2）を活用した授業実践, 第18回全国高等学校情報教育研究会全国大会（千葉大会）(2025).
+    - [researchmap（ポスターデータあり）](https://researchmap.jp/yuki-kitamura/presentations/50796633)
+1. <u>北村祐稀</u>, Henderson Tracy, 白井詩沙香, 長瀧寛之, 辰己丈夫, Bell Tim, 浦西友樹: ニュージーランドと日本の高等学校における情報教育の比較のための予備調査―授業見学と教員インタビューを通じて―, 情報処理学会 研究報告コンピュータと教育 (CE), Vol. 2024-CE-177, No. 17, pp. 1-6 (2024).
+    - [researchmap](https://researchmap.jp/yuki-kitamura/presentations/48658431)
+1. <u>北村祐稀</u>, 長瀧寛之, 井手広康, 兼宗進, 岸本有生, 白井詩沙香: すぐ使える！ 通信プロトコルシミュレータProtoSim（プロトシム）〜実践結果2023＆展望2024〜, 第17回全国高等学校情報教育研究会全国大会（愛知大会）(2024).
+    - [researchmap（ポスターデータあり）](https://researchmap.jp/yuki-kitamura/presentations/47323559)
+1. <u>北村祐稀</u>, 白井詩沙香, 西田知博, 兼宗進, 長瀧寛之, 小野淳, 竹村治雄: インタラクティブなソートアルゴリズム演習ツールを取り入れた一般情報教育における授業実践, 情報処理学会 研究報告コンピュータと教育 (CE), Vol. 2023-CE-172, No. 16, pp. 1-8 (2023).
+    - [researchmap](https://researchmap.jp/yuki-kitamura/presentations/44246181)
+1. <u>北村祐稀</u>, 長瀧寛之, 井手広康, 兼宗進, 白井詩沙香: シミュレータ教材ProtoSimを活用したTCP/IPの仕組みと重要性を体験的に学ぶ授業の提案, 第16回全国高等学校情報教育研究会全国大会（東京大会）(2023).
+    - [researchmap（ポスターデータあり）](https://researchmap.jp/yuki-kitamura/presentations/43753090)
+1. <u>北村祐稀</u>, 岸本有生, 兼宗進, 西田知博, 白井詩沙香: CSアンプラグドを活用したソートアルゴリズムオンライン学習教材の開発, 情報処理学会 研究報告コンピュータと教育 (CE), Vol. 2022-CE-163, No. 4, pp. 1-7 (2022).
+    - [researchmap](https://researchmap.jp/yuki-kitamura/presentations/43753098)
 
 ## 執筆
 
