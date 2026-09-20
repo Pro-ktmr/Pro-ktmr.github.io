@@ -45,9 +45,13 @@ title: "プロフィール"
 
 [researchmap](https://researchmap.jp/yuki-kitamura)
 
+## 海外論文誌（査読あり）
+
+1. <u>Yuki Kitamura</u>, Hiroyasu Ide, Hiroyuki Nagataki, Susumu Kanemune, Shizuka Shirai: "ProtoSim: Interactive Learning Environment for High School Students to Learn the TCP/IP Protocol Suite in Computer Science Education", IEEE Transactions on Learning Technologies, Vol. 19, pp. 598-608 (2026).
+
 ### 国内論文誌（査読あり）
 
-1. <u>北村祐稀</u>, 長瀧寛之, 井手広康, 兼宗進, 白井詩沙香: TCP/IPを軸として情報通信ネットワークの仕組みを体験的に学べるシミュレータ教材を活用した授業の提案, 情報処理学会論文誌教育とコンピュータ（TCE）, Vol. ??, No. ?, pp. 1-?? (2026).
+1. <u>北村祐稀</u>, 長瀧寛之, 井手広康, 兼宗進, 白井詩沙香: TCP/IPを軸として情報通信ネットワークの仕組みを体験的に学べるシミュレータ教材を活用した授業の提案, 情報処理学会論文誌教育とコンピュータ（TCE）, Vol. 12, No. 3, pp. 1-?? (2026).
     - researchmap
 1. <u>北村祐稀</u>, 岸本有生, 兼宗進, 西田知博, 白井詩沙香: カードの並べ替えを通じてソートアルゴリズムを体験的に学ぶインタラクティブ教材CardAlgoの開発と評価, 情報処理学会論文誌教育とコンピュータ（TCE）, Vol. 11, No. 1, pp. 1-14 (2025).
     - [researchmap](https://researchmap.jp/yuki-kitamura/published_papers/49239994)
